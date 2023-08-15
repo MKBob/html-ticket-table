@@ -1,0 +1,33 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	color: #fff;
+	border: 1px solid black;
+	background: rgb(148, 86, 86);
+	height: 10vh;
+	align-items: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+}
+.select{
+position: absolute;
+	width: 15%;
+	height: 5vh;
+	margin-left: 10rem;
+	margin-top: 1rem;
+}	
+
+.main_con{
+	display: flex;
+}
+.sec_div{
+	display: flex;
+	justify-content: space-between;
+}
